@@ -1,0 +1,19 @@
+nav{
+    background-color: aquamarine;
+    color:black;
+}
+li{
+    list-style: none;
+}
+nav{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+ul{
+    display: flex;
+    gap: 25px;
+    justify-content: right;
+}
